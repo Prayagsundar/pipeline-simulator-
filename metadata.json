@@ -1,0 +1,6 @@
+{
+  "name": "Pipeline3D - Interactive CPU Pipeline Simulator",
+  "description": "A high-fidelity 3D CPU Pipeline Simulator with real-time hazard detection, data forwarding, cycle-by-cycle execution timeline, and architectural inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
